@@ -1,0 +1,1 @@
+<a href="https://colab.research.google.com/github/GDjkhp/rvc-for-ai-music-covers/blob/main/RVC_Inference_by_GDjkhp.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
